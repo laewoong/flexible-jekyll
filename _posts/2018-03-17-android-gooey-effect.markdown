@@ -236,10 +236,11 @@ public class GooeyEffectView extends View {
 
 
 More Interactive, You just add Animation such as moving the x position of circles like below video.
-[![Gooey effect video](https://img.youtube.com/vi/jcDgF22p3kw/0.jpg)](https://youtu.be/jcDgF22p3kw)
+{% youtube jcDgF22p3kw %}
+
 
 Or you can add resizing and an elastic `Interpolator` to make fascinating like below video.
-[![Gooey effect video](https://img.youtube.com/vi/cF_gzy395TU/0.jpg)](https://youtu.be/cF_gzy395TU)
+{% youtube cF_gzy395TU %}
 
 
 You can get the full source code of `GooeyEffectView` on [my GitHub][github-url-gooey-effect]
