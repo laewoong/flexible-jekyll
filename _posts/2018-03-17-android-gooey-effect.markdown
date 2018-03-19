@@ -13,7 +13,7 @@ Gooey Effect in web uses 3 steps.
 2. Blur the Circles.
 3. Contrast the Circles.
 
-In Android, However, It didn't work. The second step that blurs two circles is too much slow and I failed to make it.
+In Android, However, It didn't work. I was stuck on the second step. The approach that I used cause too much computation, so it was extremely slow for blurring two circles.
 But 2 Weeks ago, I watched an awesome YouTube [droidcon SF 2017 - Canvas Drawing for Fun and Profit][awsome-youtube] that inspired me and I try again.
 On YouTube, I got some idea from Drawing doughnut icing part and Today I introduce implementing gooey effect using canvas API in android.
 
