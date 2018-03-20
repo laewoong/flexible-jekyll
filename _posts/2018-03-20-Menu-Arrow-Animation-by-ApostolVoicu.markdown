@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menu Arrow Animation by Apostol Voicu
+title: Menu/Arrow Animation by Apostol Voicu
 date: 2018-03-20
 description: Implementing Menu/Arrow Animation by Apostol Voicu using canvas apis in Android 
 img: 2018_03_20_cover.gif
