@@ -5,13 +5,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl:  # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://laewoong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: laewoong # add your name
 author-img: profile.png # add your photo
-about-author: I am a android developer focusing on custom component development. # add description
+about-author: I am an android developer focusing on custom component development. # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: laewoong # add your Github handle
@@ -19,7 +19,7 @@ social-github: laewoong # add your Github handle
 social-email: laewoong.jang@gmail.com
 
 # Disqus
-discus-identifier: laewoong.jang@gmail.com # add your discus identifier
+discus-identifier: laewoongs-blog # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
